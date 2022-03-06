@@ -1,4 +1,5 @@
 # Deep Learning Homework: Charity Funding Predictor
+<img width="871" alt="Screen Shot 2022-03-06 at 5 27 15 PM" src="https://user-images.githubusercontent.com/91695375/156944731-b411c6f7-ddf8-43d0-b168-38c6088ffa69.png">
 
 ## Background
 
